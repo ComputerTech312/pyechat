@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="863e7125-d4c9-48b6-9535-5182e00f46a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/irc/irc_sdk.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/irc/irc_sdk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/irc/logger.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2deu0OjQv0MWSeB45kCPl0xoePM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for event.event_test.TestEventMethods.executor": "Run",
+    "Python tests.Python tests for event.event_test.TestEventMethods.test_create_event.executor": "Run",
+    "Python tests.Python tests for event.event_test.TestEventMethods.test_fire_event.executor": "Run",
+    "Python tests.Python tests for event.event_test.TestEventMethods.test_fire_event_no_listener.executor": "Run",
+    "Python tests.Python tests for event.test.TestEventMethods.executor": "Run",
+    "Python tests.Python tests for event.test.TestEventMethods.test_fire_event_no_listener.executor": "Run",
+    "Python tests.Python tests for event.test.TestStringMethods.executor": "Run",
+    "Python tests.Python tests for event.test.TestStringMethods.test_create_event.executor": "Run",
+    "Python tests.Python tests for event.test.TestStringMethods.test_fire_event.executor": "Run",
+    "Python tests.Python tests for irc_sdk_test.TestIRCSDKMethods.executor": "Run",
+    "Python tests.Python tests for irc_sdk_test.TestIRCSDKMethods.test_connect.executor": "Run",
+    "Python tests.Python tests for test.TestIRCSDKMethods.test_connect.executor": "Run",
+    "Python tests.Python tests for test.TestIRCSDKMethods.test_create_irc.executor": "Run",
+    "Python tests.Unittests in /.executor": "Run",
+    "Python tests.unit tests.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feat__irc__sdk__fix",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/irc/event" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for irc_sdk_test.TestIRCSDKMethods.test_connect">
+    <configuration name="Python tests for event.event_test.TestEventMethods.test_create_event" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pyechat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/irc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;event.event_test.TestEventMethods.test_create_event&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for event.event_test.TestEventMethods.test_fire_event" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pyechat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/irc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;event.event_test.TestEventMethods.test_fire_event&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for event.event_test.TestEventMethods.test_fire_event_no_listener" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pyechat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/irc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;event.event_test.TestEventMethods.test_fire_event_no_listener&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for irc_sdk_test.TestIRCSDKMethods" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pyechat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/irc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;irc_sdk_test.TestIRCSDKMethods&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for irc_sdk_test.TestIRCSDKMethods.test_connect" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pyechat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/irc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;irc_sdk_test.TestIRCSDKMethods.test_connect&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unit tests" type="tests" factoryName="Unittests">
+      <module name="pyechat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.unit tests" />
+      <item itemvalue="Python tests.Python tests for event.event_test.TestEventMethods.test_create_event" />
+      <item itemvalue="Python tests.Python tests for event.event_test.TestEventMethods.test_fire_event" />
+      <item itemvalue="Python tests.Python tests for event.event_test.TestEventMethods.test_fire_event_no_listener" />
+      <item itemvalue="Python tests.Python tests for irc_sdk_test.TestIRCSDKMethods" />
+      <item itemvalue="Python tests.Python tests for irc_sdk_test.TestIRCSDKMethods.test_connect" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for irc_sdk_test.TestIRCSDKMethods.test_connect" />
+        <item itemvalue="Python tests.Python tests for irc_sdk_test.TestIRCSDKMethods" />
+        <item itemvalue="Python tests.Python tests for event.event_test.TestEventMethods.test_fire_event_no_listener" />
+        <item itemvalue="Python tests.Python tests for event.event_test.TestEventMethods.test_fire_event" />
+        <item itemvalue="Python tests.Python tests for event.event_test.TestEventMethods.test_create_event" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="863e7125-d4c9-48b6-9535-5182e00f46a8" name="Changes" comment="" />
+      <created>1710380642578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710380642578</updated>
+      <workItem from="1710380644077" duration="46000" />
+      <workItem from="1710380699010" duration="10000" />
+      <workItem from="1710380718056" duration="2125000" />
+      <workItem from="1710461783754" duration="5000" />
+      <workItem from="1710461794585" duration="2296000" />
+      <workItem from="1710545482035" duration="5323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pyechat$.coverage" NAME=" Coverage Results" MODIFIED="1710634727488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/irc" />
+    <SUITE FILE_PATH="coverage/pyechat$main.coverage" NAME="main Coverage Results" MODIFIED="1710418553009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyechat$Unittests_in__.coverage" NAME="unit tests Coverage Results" MODIFIED="1710462467139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

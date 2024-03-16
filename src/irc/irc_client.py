@@ -1,6 +1,8 @@
 from PyQt6.QtCore import QObject, pyqtSignal, pyqtSlot
 from PyQt6.QtNetwork import QSslSocket
-from src.irc.logger import Logger
+
+from src.irc.event.event import Event
+from src.irc.file_logger import Logger
 import datetime
 
 class IRCClient(QObject):
@@ -8,6 +10,8 @@ class IRCClient(QObject):
 
     def __init__(self, server, port, nickname, realname, channel, use_ssl=False):
         super().__init__()
+
+        self.event = Event()
 
         self.socket = QSslSocket()
         self.socket.readyRead.connect(self.on_ready_read)

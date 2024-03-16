@@ -1571,3 +1571,77 @@
 2024-02-16 05:30:47,362 [DEBUG] Received line: :ComputerTech!computerte@ComputerTech.Network PRIVMSG #pyechat :but after that just store it all upon joining/parting/kicking?
 2024-02-16 05:30:48,884 [DEBUG] Received line: :ComputerTech!computerte@ComputerTech.Network PRIVMSG #pyechat :etc?
 2024-02-16 05:30:49,887 [DEBUG] Received line: :ComputerTech!computerte@ComputerTech.Network PRIVMSG #pyechat :idk
+2024-03-14 08:18:47,182 [INFO] Initialized IRCClient with server=irc.rizon.net, port=6667, nickname=pyechat_nyanko, realname=Pyechat: https://pyechat.github.io, channel=#pyechat, use_ssl=False
+2024-03-14 08:18:47,183 [INFO] Connecting to host irc.rizon.net:6667
+2024-03-14 08:18:47,185 [INFO] Sending command: NICK pyechat_nyanko
+2024-03-14 08:18:47,186 [INFO] Sent command: NICK pyechat_nyanko
+2024-03-14 08:18:47,186 [INFO] Sending command: USER pyechat_nyanko 0 * :Pyechat: https://pyechat.github.io
+2024-03-14 08:18:47,186 [INFO] Sent command: USER pyechat_nyanko 0 * :Pyechat: https://pyechat.github.io
+2024-03-14 08:18:47,186 [INFO] Connected to host irc.rizon.net:6667 with SSL=False
+2024-03-14 08:18:47,452 [DEBUG] Received line: :lithium.rizon.net NOTICE * :*** Looking up your hostname...
+2024-03-14 08:18:47,453 [DEBUG] Received line: :lithium.rizon.net NOTICE * :*** Checking Ident
+2024-03-14 08:18:47,702 [DEBUG] Received line: :lithium.rizon.net NOTICE * :*** Couldn't look up your hostname
+2024-03-14 08:18:49,044 [DEBUG] Received line: :lithium.rizon.net NOTICE * :*** No Ident response
+2024-03-14 08:18:49,044 [DEBUG] Received line: PING :4124135950
+2024-03-14 08:18:49,044 [INFO] Sending command: PONG :4124135950
+2024-03-14 08:18:49,044 [INFO] Sent command: PONG :4124135950
+2024-03-14 08:18:49,161 [DEBUG] Received line: :lithium.rizon.net NOTICE pyechat_nyanko :*** Your host is masked (D64AFBAE.996877F4.BBF73F4A.IP)
+2024-03-14 08:18:49,161 [DEBUG] Received line: :lithium.rizon.net 001 pyechat_nyanko :Welcome to the Rizon Internet Relay Chat Network pyechat_nyanko
+2024-03-14 08:18:49,162 [DEBUG] Received line: :lithium.rizon.net 002 pyechat_nyanko :Your host is lithium.rizon.net, running version plexus-4(hybrid-8.1.20)
+2024-03-14 08:18:49,162 [DEBUG] Received line: :lithium.rizon.net 003 pyechat_nyanko :This server was created Jun 28 2022 at 12:46:54
+2024-03-14 08:18:49,162 [DEBUG] Received line: :lithium.rizon.net 004 pyechat_nyanko lithium.rizon.net plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+2024-03-14 08:18:49,163 [DEBUG] Received line: :lithium.rizon.net 005 pyechat_nyanko CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+2024-03-14 08:18:49,163 [DEBUG] Received line: :lithium.rizon.net 005 pyechat_nyanko CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=180 KNOCK WATCH=60 ELIST=CMNTU SAFELIST NAMESX UHNAMES :are supported by this server
+2024-03-14 08:18:49,163 [DEBUG] Received line: :lithium.rizon.net 251 pyechat_nyanko :There are 21 users and 8669 invisible on 17 servers
+2024-03-14 08:18:49,164 [DEBUG] Received line: :lithium.rizon.net 252 pyechat_nyanko 46 :IRC Operators online
+2024-03-14 08:18:49,164 [DEBUG] Received line: :lithium.rizon.net 254 pyechat_nyanko 7934 :channels formed
+2024-03-14 08:18:49,164 [DEBUG] Received line: :lithium.rizon.net 255 pyechat_nyanko :I have 8690 clients and 17 servers
+2024-03-14 08:18:49,164 [DEBUG] Received line: :lithium.rizon.net 265 pyechat_nyanko :Current local users: 8690  Max: 10409
+2024-03-14 08:18:49,164 [DEBUG] Received line: :lithium.rizon.net 266 pyechat_nyanko :Current global users: 8690  Max: 10409
+2024-03-14 08:18:49,164 [DEBUG] Received line: :lithium.rizon.net 375 pyechat_nyanko :- lithium.rizon.net Message of the Day -
+2024-03-14 08:18:49,209 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :-          11oo                            
+2024-03-14 08:18:49,209 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :-
+2024-03-14 08:18:49,209 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- 88d888b. dP d888888b .d8888b. 88d888b. 
+2024-03-14 08:18:49,210 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2024-03-14 08:18:49,210 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- 1188       88  .Y8P    88.  .88 88    88 
+2024-03-14 08:18:49,210 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- 11dP       dP d888888P `88888P' dP    dP
+2024-03-14 08:18:49,210 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :-
+2024-03-14 08:18:49,210 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- Rizon Chat Network -- http://rizon.net
+2024-03-14 08:18:49,210 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :-
+2024-03-14 08:18:49,210 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2024-03-14 08:18:49,210 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :-
+2024-03-14 08:18:49,210 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- Rules:
+2024-03-14 08:18:49,211 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- o No spamming or flooding
+2024-03-14 08:18:49,211 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- o No clones or malicious bots
+2024-03-14 08:18:49,211 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- o No takeovers
+2024-03-14 08:18:49,211 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- o No distribution of child pornography
+2024-03-14 08:18:49,211 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- o Clients must respond to VERSION requests
+2024-03-14 08:18:49,211 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- o Rizon staff may disconnect clients for any or no reason
+2024-03-14 08:18:49,211 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :-
+2024-03-14 08:18:49,211 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- First steps:
+2024-03-14 08:18:49,212 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- o To register your nick: /msg NickServ HELP
+2024-03-14 08:18:49,212 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- o To register your channel: /msg ChanServ HELP
+2024-03-14 08:18:49,212 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- o To get a vHost: /msg HostServ HELP REQUEST
+2024-03-14 08:18:49,212 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- o For other help with Rizon: /join #help
+2024-03-14 08:18:49,212 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :-
+2024-03-14 08:18:49,212 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- Usage of this network is a privilege, not a right. Rizon is a
+2024-03-14 08:18:49,212 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- transit provider, therefore no person or entity involved with
+2024-03-14 08:18:49,212 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- *.rizon.net or lithium.rizon.net takes any responsibility for
+2024-03-14 08:18:49,213 [DEBUG] Received line: :lithium.rizon.net 372 pyechat_nyanko :- users' actions. Absolutely no warranty is expressed or implied.
+2024-03-14 08:18:49,213 [DEBUG] Received line: :lithium.rizon.net 376 pyechat_nyanko :End of /MOTD command.
+2024-03-14 08:18:49,213 [INFO] Sending command: JOIN #pyechat
+2024-03-14 08:18:49,213 [INFO] Sent command: JOIN #pyechat
+2024-03-14 08:18:49,213 [INFO] Sending command: NAMES #pyechat
+2024-03-14 08:18:49,213 [INFO] Sent command: NAMES #pyechat
+2024-03-14 08:18:49,213 [DEBUG] Received line: :pyechat_nyanko!~pyechat_n@D64AFBAE.996877F4.BBF73F4A.IP MODE pyechat_nyanko :+ix
+2024-03-14 08:18:49,233 [DEBUG] Received line: :Global!service@rizon.net NOTICE pyechat_nyanko :[Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2024-03-14 08:18:49,233 [DEBUG] Received line: :Global!service@rizon.net NOTICE pyechat_nyanko :[Logon News - Feb 16 2022] First time on Rizon? Be sure to check out our wiki! https://wiki.rizon.net
+2024-03-14 08:18:49,233 [DEBUG] Received line: :Global!service@rizon.net NOTICE pyechat_nyanko :[Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+2024-03-14 08:18:49,233 [DEBUG] Received line: :py-ctcp!ctcp@ctcp-scanner.rizon.net PRIVMSG pyechat_nyanko :VERSION
+2024-03-14 08:18:49,297 [DEBUG] Received line: :pyechat_nyanko!~pyechat_n@D64AFBAE.996877F4.BBF73F4A.IP JOIN :#pyechat
+2024-03-14 08:18:49,297 [DEBUG] Received line: :lithium.rizon.net 332 pyechat_nyanko #pyechat :Welcome to #pyechat | https://pyechat.github.io | https://github.com/pyechat | Version: 0.0.1-alpha.1
+2024-03-14 08:18:49,298 [DEBUG] Received line: :lithium.rizon.net 333 pyechat_nyanko #pyechat ComputerTech 1707984529
+2024-03-14 08:18:49,298 [DEBUG] Received line: :lithium.rizon.net 353 pyechat_nyanko = #pyechat :pyechat_nyanko Nyankochan @Koragg @Rizon @ComputerTech
+2024-03-14 08:18:49,298 [DEBUG] Received line: :lithium.rizon.net 366 pyechat_nyanko #pyechat :End of /NAMES list.
+2024-03-14 08:18:49,298 [DEBUG] Received line: :lithium.rizon.net 353 pyechat_nyanko = #pyechat :pyechat_nyanko Nyankochan @Koragg @Rizon @ComputerTech
+2024-03-14 08:18:49,298 [DEBUG] Received line: :lithium.rizon.net 366 pyechat_nyanko #pyechat :End of /NAMES list.

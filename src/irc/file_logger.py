@@ -1,7 +1,7 @@
 import logging
 import os
 
-class Logger:
+class FileLogger:
     def __init__(self, log_file):
         self.log_file = log_file
         os.makedirs(os.path.dirname(log_file), exist_ok=True)
